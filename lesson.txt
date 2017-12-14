@@ -1,2 +1,3 @@
 i am a new student
 this is my first lesson
+i like git
